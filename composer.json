@@ -1,0 +1,11 @@
+{
+    "name": "berdir/foo",
+    "type": "foo-module",
+    "authors": [
+        {
+            "name": "Sascha Grossenbacher",
+            "email": "saschagros@gmail.com"
+        }
+    ],
+    "require": {}
+}
